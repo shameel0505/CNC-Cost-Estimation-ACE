@@ -1,0 +1,201 @@
+Product,Volume_mm3,Feature_Count,Cycle_Time_min,Quoted_Cost,Material_Brass,Material_Copper,Material_Plastic,Material_Steel
+Spindle Shaft,116098.46,5,23.86,3494.05,False,False,True,False
+Connector Plate,12015.09,6,31.07,624.05,False,False,False,False
+Adapter Ring,26250.17,3,24.53,1312.73,False,False,False,False
+Valve Body,16440.37,5,40.69,1480.53,True,False,False,False
+Spindle Shaft,15702.03,7,31.38,476.35,False,False,True,False
+Flange Cover,129764.48,5,37.13,12970.33,False,True,False,False
+Motor Housing,108512.1,5,45.53,3278.86,False,False,True,False
+Spindle Shaft,76384.34,5,35.68,6881.29,True,False,False,False
+Adapter Ring,23696.78,10,37.26,2148.23,True,False,False,False
+Valve Body,78826.22,10,36.05,2363.55,False,False,True,False
+Connector Plate,76286.05,3,25.83,6857.41,True,False,False,False
+Adapter Ring,34248.26,1,23.56,1044.1,False,False,True,False
+Adapter Ring,70739.23,5,54.48,4964.78,False,False,False,True
+Motor Housing,65790.66,14,38.42,2013.38,False,False,True,False
+Custom Bracket,96219.01,9,18.44,2914.97,False,False,True,False
+Valve Body,98913.11,14,32.4,8920.17,True,False,False,False
+Precision Gear,16342.56,1,23.17,1497.13,True,False,False,False
+Adapter Ring,62445.77,3,56.35,3147.79,False,False,False,False
+Custom Bracket,97620.39,13,5.41,4901.38,False,False,False,False
+Precision Gear,80439.08,13,17.39,5621.05,False,False,False,True
+Valve Body,129908.58,4,25.09,6499.86,False,False,False,False
+CNC Machined Block,102217.11,14,31.83,3096.9,False,False,True,False
+Flange Cover,32810.82,1,51.79,2949.3,True,False,False,False
+Custom Bracket,19879.62,1,9.83,993.77,False,False,False,False
+Mounting Base,99938.7,8,49.32,5004.65,False,False,False,False
+CNC Machined Block,13711.58,2,8.06,973.03,False,False,False,True
+Flange Cover,92008.58,12,51.33,6465.24,False,False,False,True
+Motor Housing,141632.23,8,7.84,4274.48,False,False,True,False
+Spindle Shaft,90566.38,7,6.0,8177.2,True,False,False,False
+Connector Plate,64343.79,10,43.33,4502.32,False,False,False,True
+Mounting Base,100060.35,10,59.85,5015.31,False,False,False,False
+Motor Housing,74155.4,2,54.31,6671.75,True,False,False,False
+Valve Body,86386.35,6,36.68,7812.49,True,False,False,False
+Motor Housing,141805.07,6,55.46,7103.74,False,False,False,False
+Spindle Shaft,64054.37,3,5.29,4497.93,False,False,False,True
+Valve Body,144566.68,11,58.63,7231.53,False,False,False,False
+Mounting Base,136749.09,2,31.99,12312.85,True,False,False,False
+Spindle Shaft,37410.76,12,44.76,3774.86,False,True,False,False
+Precision Gear,19710.58,1,50.15,1981.68,False,True,False,False
+Connector Plate,24108.92,6,44.52,741.5,False,False,True,False
+Mounting Base,12551.06,12,34.43,651.68,False,False,False,False
+Precision Gear,23222.01,5,31.21,1171.72,False,False,False,False
+Flange Cover,105620.95,14,51.12,3179.7,False,False,True,False
+Mounting Base,19966.41,14,16.28,617.99,False,False,True,False
+Flange Cover,54656.59,11,58.24,1664.01,False,False,True,False
+Valve Body,128282.54,9,44.1,11556.27,True,False,False,False
+Precision Gear,13258.07,1,15.97,671.79,False,False,False,False
+Connector Plate,124025.59,7,45.49,11180.97,True,False,False,False
+Spindle Shaft,49459.67,5,34.14,1507.46,False,False,True,False
+Adapter Ring,26543.08,5,43.9,1346.74,False,False,False,False
+Motor Housing,107543.2,14,47.23,9709.16,True,False,False,False
+CNC Machined Block,98052.0,2,9.8,8836.16,True,False,False,False
+Connector Plate,132846.08,11,32.84,4017.43,False,False,True,False
+Precision Gear,112909.95,3,56.26,5646.42,False,False,False,False
+Adapter Ring,122487.33,7,22.64,3685.33,False,False,True,False
+Connector Plate,49484.84,6,37.66,2485.27,False,False,False,False
+Precision Gear,34841.54,12,25.31,3503.4,False,True,False,False
+Custom Bracket,115086.07,2,29.98,8070.18,False,False,False,True
+Custom Bracket,122956.86,6,35.17,8612.71,False,False,False,True
+Flange Cover,148670.72,2,35.19,10423.47,False,False,False,True
+Connector Plate,67766.47,2,16.1,2033.32,False,False,True,False
+Custom Bracket,62082.53,2,42.65,6216.98,False,True,False,False
+Precision Gear,118697.81,14,9.83,5964.55,False,False,False,False
+Flange Cover,57712.5,11,12.64,5206.37,True,False,False,False
+Precision Gear,140306.03,3,5.15,7021.1,False,False,False,False
+Flange Cover,130177.79,2,11.42,11723.34,True,False,False,False
+Connector Plate,70059.16,4,31.02,3510.32,False,False,False,False
+Adapter Ring,115121.95,9,38.34,11516.77,False,True,False,False
+Spindle Shaft,115636.0,6,48.69,10436.25,True,False,False,False
+Mounting Base,24437.34,1,10.87,736.0,False,False,True,False
+Adapter Ring,136357.41,8,51.79,6825.93,False,False,False,False
+Valve Body,80735.33,12,46.03,4076.97,False,False,False,False
+Precision Gear,125704.05,14,27.47,11347.54,True,False,False,False
+Valve Body,54806.94,7,56.31,1646.21,False,False,True,False
+Adapter Ring,135373.25,10,59.5,4070.75,False,False,True,False
+Flange Cover,64488.24,3,16.28,6452.6,False,True,False,False
+Mounting Base,11517.27,1,25.86,350.49,False,False,True,False
+Mounting Base,136753.48,5,55.95,4118.83,False,False,True,False
+CNC Machined Block,22780.13,13,44.69,718.91,False,False,True,False
+Mounting Base,54703.91,4,7.65,3842.67,False,False,False,True
+Spindle Shaft,143008.68,10,47.98,14334.34,False,True,False,False
+Mounting Base,143085.0,8,50.54,7171.52,False,False,False,False
+Adapter Ring,90281.3,1,46.28,8119.72,True,False,False,False
+CNC Machined Block,98457.21,10,48.97,4942.83,False,False,False,False
+Adapter Ring,72782.37,1,50.38,7279.55,False,True,False,False
+Adapter Ring,51049.51,12,15.25,4592.67,True,False,False,False
+Motor Housing,56013.04,4,17.96,5603.69,False,True,False,False
+CNC Machined Block,104152.58,8,39.86,3143.72,False,False,True,False
+Adapter Ring,115332.43,5,54.93,10385.68,True,False,False,False
+Motor Housing,120821.07,2,22.39,3622.17,False,False,True,False
+Motor Housing,120546.54,6,37.36,6048.44,False,False,False,False
+CNC Machined Block,22768.85,5,42.56,1139.28,False,False,False,False
+Valve Body,79218.84,2,29.86,7140.81,True,False,False,False
+Flange Cover,18058.23,13,44.26,1637.91,True,False,False,False
+Spindle Shaft,86934.04,14,54.48,8749.01,False,True,False,False
+Flange Cover,71814.27,11,39.33,7201.27,False,True,False,False
+Mounting Base,134278.59,11,34.69,4047.13,False,False,True,False
+Spindle Shaft,59128.1,11,29.13,5354.96,True,False,False,False
+Mounting Base,26389.38,3,36.76,1321.28,False,False,False,False
+Adapter Ring,30018.84,9,24.54,3034.43,False,True,False,False
+Precision Gear,116611.49,7,26.53,11678.86,False,True,False,False
+CNC Machined Block,96550.53,7,34.25,4840.34,False,False,False,False
+Spindle Shaft,24157.17,11,8.66,2435.47,False,True,False,False
+Spindle Shaft,21774.95,6,17.6,677.32,False,False,True,False
+Adapter Ring,108135.68,8,34.86,9750.52,True,False,False,False
+Valve Body,20186.82,4,28.73,1021.66,False,False,False,False
+Motor Housing,125060.41,8,23.3,11276.85,True,False,False,False
+Adapter Ring,108873.91,4,45.18,10896.72,False,True,False,False
+Custom Bracket,21388.83,8,43.15,2160.08,False,True,False,False
+Motor Housing,21877.28,9,14.17,1110.68,False,False,False,False
+CNC Machined Block,148129.54,3,53.32,4449.39,False,False,True,False
+Motor Housing,62397.91,3,32.25,4362.66,False,False,False,True
+Valve Body,61889.9,11,45.78,3119.47,False,False,False,False
+Motor Housing,123791.94,13,36.52,8674.24,False,False,False,True
+CNC Machined Block,142614.8,2,59.87,9989.87,False,False,False,True
+Valve Body,148040.15,13,46.38,4464.4,False,False,True,False
+Flange Cover,115472.95,10,43.88,8106.85,False,False,False,True
+Spindle Shaft,62676.34,3,47.82,4382.86,False,False,False,True
+Spindle Shaft,21690.1,3,12.87,635.51,False,False,True,False
+Mounting Base,118800.57,5,16.25,8322.53,False,False,False,True
+Flange Cover,88176.59,5,44.27,6171.9,False,False,False,True
+Flange Cover,69391.08,2,32.17,4843.57,False,False,False,True
+Motor Housing,136889.61,12,46.5,6876.16,False,False,False,False
+Spindle Shaft,25567.65,10,10.66,1314.39,False,False,False,False
+CNC Machined Block,78967.51,13,34.51,3966.41,False,False,False,False
+Connector Plate,11589.51,6,25.84,358.93,False,False,True,False
+Connector Plate,75612.49,5,30.14,7568.17,False,True,False,False
+Valve Body,17882.46,6,38.22,1257.18,False,False,False,True
+Spindle Shaft,26634.51,1,32.63,1873.05,False,False,False,True
+Spindle Shaft,26453.67,5,34.69,813.71,False,False,True,False
+Connector Plate,100889.44,9,31.75,7071.57,False,False,False,True
+Spindle Shaft,114446.28,12,27.49,5746.76,False,False,False,False
+Motor Housing,91671.63,10,47.45,9200.01,False,True,False,False
+Custom Bracket,144704.16,14,5.67,13058.26,True,False,False,False
+Precision Gear,62481.88,2,37.91,4386.11,False,False,False,True
+Flange Cover,49999.69,1,36.1,2515.66,False,False,False,False
+Mounting Base,131603.88,14,44.39,11885.9,True,False,False,False
+Valve Body,41303.42,10,37.95,4160.63,False,True,False,False
+Custom Bracket,144851.16,13,50.47,13064.05,True,False,False,False
+Connector Plate,11701.63,11,57.75,603.26,False,False,False,False
+Flange Cover,145783.04,9,23.84,13139.51,True,False,False,False
+Spindle Shaft,16042.39,10,17.5,495.93,False,False,True,False
+Mounting Base,134760.04,9,28.3,12126.88,True,False,False,False
+Spindle Shaft,83878.16,9,20.84,5886.68,False,False,False,True
+CNC Machined Block,149015.07,6,38.82,10446.63,False,False,False,True
+CNC Machined Block,20331.52,8,55.15,620.07,False,False,True,False
+Mounting Base,87539.6,14,12.65,4403.05,False,False,False,False
+Mounting Base,145702.35,11,10.54,10219.62,False,False,False,True
+Connector Plate,83233.7,13,19.08,8362.94,False,True,False,False
+Mounting Base,98115.81,1,44.94,6866.51,False,False,False,True
+Motor Housing,107404.82,10,37.61,7551.9,False,False,False,True
+Spindle Shaft,73635.75,4,10.62,3662.66,False,False,False,False
+Custom Bracket,97858.13,1,55.53,8822.71,True,False,False,False
+Adapter Ring,91804.0,8,48.45,6455.25,False,False,False,True
+Mounting Base,136162.12,1,6.27,4095.89,False,False,True,False
+Valve Body,16362.49,3,40.83,1458.5,True,False,False,False
+CNC Machined Block,49334.85,13,47.42,4969.67,False,True,False,False
+Motor Housing,143057.61,4,25.59,7160.38,False,False,False,False
+Flange Cover,134636.93,8,8.79,13454.4,False,True,False,False
+Adapter Ring,73791.95,6,9.25,6666.26,True,False,False,False
+Custom Bracket,96818.56,14,10.73,8756.11,True,False,False,False
+Adapter Ring,48833.37,10,51.22,4395.96,True,False,False,False
+Mounting Base,36336.96,12,55.09,3659.45,False,True,False,False
+Connector Plate,74917.78,7,11.75,6770.49,True,False,False,False
+CNC Machined Block,59469.31,14,17.97,5987.23,False,True,False,False
+CNC Machined Block,91711.86,8,14.1,8278.43,True,False,False,False
+Flange Cover,20882.85,2,15.25,604.01,False,False,True,False
+Connector Plate,146415.27,13,51.06,13210.67,True,False,False,False
+Spindle Shaft,148069.5,10,23.27,14824.77,False,True,False,False
+Precision Gear,107742.64,14,22.13,7579.94,False,False,False,True
+Motor Housing,85053.49,11,17.51,7679.38,True,False,False,False
+CNC Machined Block,53333.87,8,38.43,3749.17,False,False,False,True
+Valve Body,123931.3,3,25.86,3730.35,False,False,True,False
+CNC Machined Block,105862.36,7,45.93,5305.4,False,False,False,False
+Adapter Ring,32766.37,3,16.31,988.75,False,False,True,False
+CNC Machined Block,137529.81,7,48.33,12386.13,True,False,False,False
+CNC Machined Block,125155.21,14,38.2,8772.81,False,False,False,True
+Precision Gear,142971.99,11,11.28,10035.72,False,False,False,True
+Precision Gear,111600.73,12,27.8,11176.01,False,True,False,False
+Custom Bracket,95878.13,13,52.49,6735.46,False,False,False,True
+Spindle Shaft,68554.03,2,55.76,6862.27,False,True,False,False
+Valve Body,140581.99,10,30.61,7028.25,False,False,False,False
+CNC Machined Block,131248.94,6,31.45,11805.79,True,False,False,False
+CNC Machined Block,16330.61,3,55.52,1636.06,False,True,False,False
+Motor Housing,13691.38,3,37.29,695.11,False,False,False,False
+Precision Gear,62704.87,9,6.81,4414.78,False,False,False,True
+Valve Body,123477.47,7,55.2,8641.51,False,False,False,True
+Flange Cover,148218.66,5,18.65,7427.3,False,False,False,False
+Custom Bracket,31058.36,12,36.77,2195.63,False,False,False,True
+Spindle Shaft,93178.3,10,14.1,4670.08,False,False,False,False
+Connector Plate,63324.72,7,6.86,6339.99,False,True,False,False
+Spindle Shaft,145788.02,9,22.13,14604.82,False,True,False,False
+Adapter Ring,127896.65,1,47.93,6399.57,False,False,False,False
+CNC Machined Block,127366.02,7,20.27,12751.11,False,True,False,False
+Custom Bracket,75617.04,6,17.11,7576.14,False,True,False,False
+Adapter Ring,68074.73,10,16.7,6836.75,False,True,False,False
+Valve Body,48276.99,14,33.33,1475.34,False,False,True,False
+Connector Plate,17892.57,12,58.65,1634.87,True,False,False,False
+Precision Gear,131061.13,9,30.24,9203.66,False,False,False,True
+Custom Bracket,123806.14,1,35.65,3712.87,False,False,True,False
